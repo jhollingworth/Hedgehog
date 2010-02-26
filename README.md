@@ -1,8 +1,8 @@
-Aims
+h1. Aims
 # Help people to discover .net projects 
 # Make downloading and using any projects found as easy as possible
 
-To do
+h1. To do
 * Website 
 ** Home page 
 *** Sign up, login
