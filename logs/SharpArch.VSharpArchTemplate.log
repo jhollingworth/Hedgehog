@@ -1,0 +1,45 @@
+14:26:14	MoveCommonAssemblyInfoToRoot: Moving CommonAssemblyInfo.cs from D:\dev\personal\Hedgehog\Hedgehog\SolutionItemsContainer\CommonAssemblyInfo.cs to root at D:\dev\personal\Hedgehog\Hedgehog\CommonAssemblyInfo.cs
+14:26:14	MoveSolutionItemsToLib: Moving solution items from D:\dev\personal\Hedgehog\Hedgehog\SolutionItemsContainer\Solution Items to lib at D:\dev\personal\Hedgehog\Hedgehog\lib
+14:26:15	MoveSolutionItemsToToolsLib: Moving tools solution items from D:\dev\personal\Hedgehog\Hedgehog\ToolsSolutionItemsContainer\Solution Items to tools lib at D:\dev\personal\Hedgehog\Hedgehog\tools\lib
+14:26:17	MoveProjectTo: Removing Hedgehog.Core from solution
+14:26:18	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Core\Hedgehog.Core.csproj
+14:26:18	MoveProjectTo: Moving Hedgehog.Core from D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Core to target location at D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Core
+14:26:18	MoveProjectTo: Adding Hedgehog.Core to solution
+14:26:19	CaptureProjectGuidOf: Does D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Core\Hedgehog.Core.csproj exist? True
+14:26:19	CaptureProjectGuidOf: About to open D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Core\Hedgehog.Core.csproj
+14:26:19	CaptureProjectGuidOf: Captured the GUID {A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D} for Hedgehog.Core
+14:26:20	MoveProjectTo: Removing Hedgehog.ApplicationServices from solution
+14:26:20	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.ApplicationServices\Hedgehog.ApplicationServices.csproj
+14:26:20	MoveProjectTo: Moving Hedgehog.ApplicationServices from D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.ApplicationServices to target location at D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.ApplicationServices
+14:26:20	MoveProjectTo: Adding Hedgehog.ApplicationServices to solution
+14:26:21	CaptureProjectGuidOf: Does D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.ApplicationServices\Hedgehog.ApplicationServices.csproj exist? True
+14:26:21	CaptureProjectGuidOf: About to open D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.ApplicationServices\Hedgehog.ApplicationServices.csproj
+14:26:21	CaptureProjectGuidOf: Captured the GUID {239A22DD-7765-4EBC-9988-1ED36EDB9602} for Hedgehog.ApplicationServices
+14:26:23	MoveProjectTo: Removing Hedgehog.Data from solution
+14:26:24	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Data\Hedgehog.Data.csproj
+14:26:24	MoveProjectTo: Moving Hedgehog.Data from D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Data to target location at D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Data
+14:26:24	MoveProjectTo: Adding Hedgehog.Data to solution
+14:26:25	CaptureProjectGuidOf: Does D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Data\Hedgehog.Data.csproj exist? True
+14:26:25	CaptureProjectGuidOf: About to open D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Data\Hedgehog.Data.csproj
+14:26:25	CaptureProjectGuidOf: Captured the GUID {2789B2DA-2AEE-44D1-809D-0F1AF1E96331} for Hedgehog.Data
+14:26:26	MoveProjectTo: Removing Hedgehog.Web.Controllers from solution
+14:26:27	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Web.Controllers\Hedgehog.Web.Controllers.csproj
+14:26:27	MoveProjectTo: Moving Hedgehog.Web.Controllers from D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Web.Controllers to target location at D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Web.Controllers
+14:26:27	MoveProjectTo: Adding Hedgehog.Web.Controllers to solution
+14:26:29	CaptureProjectGuidOf: Does D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Web.Controllers\Hedgehog.Web.Controllers.csproj exist? True
+14:26:29	CaptureProjectGuidOf: About to open D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Web.Controllers\Hedgehog.Web.Controllers.csproj
+14:26:29	CaptureProjectGuidOf: Captured the GUID {7B7E0BD8-B510-4B85-8F7F-C5B056DB0D8D} for Hedgehog.Web.Controllers
+14:26:33	MoveProjectTo: Removing Hedgehog.Tests from solution
+14:26:34	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Tests\Hedgehog.Tests.csproj
+14:26:34	MoveProjectTo: Moving Hedgehog.Tests from D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Tests to target location at D:\dev\personal\Hedgehog\Hedgehog\tests\Hedgehog.Tests
+14:26:34	MoveProjectTo: Adding Hedgehog.Tests to solution
+14:26:41	MoveProjectTo: Removing Hedgehog.Web from solution
+14:26:42	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Web\Hedgehog.Web.csproj
+14:26:42	MoveProjectTo: Moving Hedgehog.Web from D:\dev\personal\Hedgehog\Hedgehog\Hedgehog.Web to target location at D:\dev\personal\Hedgehog\Hedgehog\app\Hedgehog.Web
+14:26:42	MoveProjectTo: Adding Hedgehog.Web to solution
+14:26:45	MoveProjectTo: Removing CrudScaffolding from solution
+14:26:46	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\Hedgehog\Hedgehog\CrudScaffolding\CrudScaffolding.csproj
+14:26:46	MoveProjectTo: Moving CrudScaffolding from D:\dev\personal\Hedgehog\Hedgehog\CrudScaffolding to target location at D:\dev\personal\Hedgehog\Hedgehog\tools\CrudScaffolding
+14:26:46	MoveProjectTo: Adding CrudScaffolding to solution folder D:\dev\personal\Hedgehog\Hedgehog\tools\CrudScaffolding
+14:26:46	ExcludeProjectFromBuildProcess: Setting build to false for project Hedgehog\tools\CrudScaffolding\CrudScaffolding.csproj within the Debug configuration
+14:26:46	ExcludeProjectFromBuildProcess: Setting build to false for project Hedgehog\tools\CrudScaffolding\CrudScaffolding.csproj within the Release configuration
