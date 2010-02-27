@@ -8,9 +8,9 @@ namespace Hedgehog.Data.NHibernateMaps.Conventions
         protected override string GetKeyName(PropertyInfo property, Type type)
         {
             if (property == null)
-                return type.Name + "Fk";
+                return type.Name + "Id";
 
-            return property.Name + "Fk";
+            return property.Name + "Id";
         }
     }
 }

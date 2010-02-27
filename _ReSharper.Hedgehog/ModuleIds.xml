@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D" ModuleId="Hedgehog.Core" />
+  <Module PersistentId="2789B2DA-2AEE-44D1-809D-0F1AF1E96331" ModuleId="Hedgehog.Data" />
+</Modules>

@@ -88,10 +88,6 @@
       <Project>{A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D}</Project>
       <Name>Hedgehog.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Hedgehog.ApplicationServices\Hedgehog.ApplicationServices.csproj">
-      <Project>{239A22DD-7765-4EBC-9988-1ED36EDB9602}</Project>
-      <Name>Hedgehog.ApplicationServices</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

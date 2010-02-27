@@ -1,0 +1,68 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:Project.cs" caret="0" fromTop="0" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:Vote.cs" caret="0" fromTop="0" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:Version.cs" caret="15" fromTop="0" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:Tag.cs" caret="0" fromTop="0" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:Dependancy.cs" caret="35" fromTop="0" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:VersionNumber.cs" caret="0" fromTop="0" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="266" fromTop="9" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:Link.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:Class1.cs" caret="0" fromTop="0" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="264" fromTop="23" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="264" fromTop="33" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="263" fromTop="10" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="264" fromTop="30" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="264" fromTop="36" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="264" fromTop="12" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="264" fromTop="10" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="264" fromTop="10" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="266" fromTop="10" />
+      <File id="A8A1CDCE-4B2F-4082-AD88-1F3375B0E67D/f:User.cs" caret="266" fromTop="9" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="prop" priority="23" />
+      <Item value="string" priority="6" />
+      <Item value="class" priority="7" />
+      <Item value="Entity`0" priority="6" />
+      <Item value="public" priority="12" />
+      <Item value="User`0" priority="3" />
+      <Item value="List" priority="5" />
+      <Item value="Project`0" priority="3" />
+      <Item value="int" priority="3" />
+      <Item value="VersionNumber`0" priority="1" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="enum" priority="1" />
+      <Item value="DependancyVersionType`0" priority="0" />
+      <Item value="Version`0" priority="0" />
+      <Item value="Link`0" priority="0" />
+      <Item value="Project" priority="0" />
+      <Item value="Vote`0" priority="1" />
+      <Item value="virtual" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

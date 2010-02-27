@@ -151,10 +151,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\app\Hedgehog.ApplicationServices\Hedgehog.ApplicationServices.csproj">
-      <Project>{239A22DD-7765-4EBC-9988-1ED36EDB9602}</Project>
-      <Name>Hedgehog.ApplicationServices</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\app\Hedgehog.Web.Controllers\Hedgehog.Web.Controllers.csproj">
       <Project>{7B7E0BD8-B510-4B85-8F7F-C5B056DB0D8D}</Project>
       <Name>Hedgehog.Web.Controllers</Name>
