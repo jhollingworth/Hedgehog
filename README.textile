@@ -22,4 +22,4 @@ h1. To do
 ** Work out if we can just use the gem package 
 ** Build an equivilant to gem which allows you to install, uninstall and publish projects 
 ** Flesh out ideas on this
-* -Find a good url- http://www.hedgeh.org
+* -Find a good url- "hedgeh.org":http://www.hedgeh.org
